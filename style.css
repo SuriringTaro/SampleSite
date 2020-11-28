@@ -17,7 +17,7 @@
 header {
    position:relative;
    height: 8rem;
-   background: #333;
+   background: #e3bab3;
    box-shadow: 0 4px 0.3125rem rgba(0,0,0,.3);
  }
 
@@ -31,7 +31,7 @@ header {
 
 nav {
   padding: 1rem 3rem ;
-  background: #333;
+  background: #613a43;
 }
 
   nav ul{
@@ -44,7 +44,7 @@ nav {
   }
 
   nav ul li a {
-    color: lavender;
+    color: white;
   }
 
 main{
@@ -55,7 +55,7 @@ main{
   section{
     flex: 3;
     padding: 3rem;
-    background: #EEE;
+    background: #e9dccd;
   }
 
     article{
@@ -68,12 +68,12 @@ main{
   aside{
     flex: 1;
     padding: 3rem;
-    background: #DDD;
+    background: #849974;
   }
 
 footer {
   padding: 2rem 3rem;
   text-align: center;
-  background: #333;
+  background: #36384c;
   color: white;
 }
